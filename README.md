@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+## My name is Cauê Leon
+## - Estou estudando na ALURA
+## - Para me desenvolver na linguagem de JAVASCRIPT
+## - Utilizo este espaço com intuito de organização e compartilhamento de projetos feitos em aula
 <!--
 **C4ueL/C4ueL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
